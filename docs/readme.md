@@ -186,7 +186,7 @@ The Auction House Program enables us to perform the following types of actions
 * **Cancel Offer** - [instructions/cancel.ts](https://github.com/metaplex-foundation/metaplex-program-library/blob/master/auction-house/js/src/generated/instructions/cancel.ts)
 
 ### How do you perform them?
-Solana provides a javascript web3 library for data queries and sending transactions. [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/) In conjunction with the solana library we’ll use the Auction House package.
+Solana provides a javascript web3 library for data queries and sending transactions. [@solana/web3.js](https://solana-labs.github.io/solana-web3.js/v1.x/) In conjunction with the solana library we’ll use the Auction House package.
 
 Sell NFT example
 ```TypeScript
